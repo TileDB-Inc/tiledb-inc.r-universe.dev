@@ -19,5 +19,17 @@
     "available": true,
     "branch": "*release",
     "subdir": "apis/r"
+  },
+  {
+    "package": "pbmc3k.sce",
+    "maintainer": "Paul Hoffman <hoff0792@alumni.umn.edu>",
+    "url": "https://github.com/mojaveazure/pbmc3k-sce/",
+    "available": true
+  },
+  {
+    "package": "pbmc3k.tiledb",
+    "maintainer": "Dirk Eddelbuettel <dirk@tiledb.com>",
+    "url": "https://github.com/eddelbuettel/pbmc3k.tiledb",
+    "available": true
   }
 ]
