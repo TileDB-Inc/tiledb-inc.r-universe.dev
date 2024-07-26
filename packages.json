@@ -4,7 +4,7 @@
     "maintainer": "Dirk Eddelbuettel <dirk@tiledb.com>",
     "url": "https://github.com/TileDB-Inc/TileDB-R",
     "available": true,
-    "branch": "0.27.0"
+    "branch": "0.28.2"
   },
   {
     "package": "tiledbcloud",
