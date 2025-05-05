@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "pbmc3k",
+    "maintainer": "Paul Hoffman <hoff0792@alumni.umn.edu>",
+    "url": "https://github.com/mojaveazure/pbmc3k/",
+    "available": true
+  },
+  {
     "package": "pbmc3k.tiledb",
     "maintainer": "Dirk Eddelbuettel <dirk@tiledb.com>",
     "url": "https://github.com/eddelbuettel/pbmc3k.tiledb",
